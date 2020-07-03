@@ -1,0 +1,30 @@
+body {
+    background-image: url(https://i.pinimg.com/originals/39/f1/23/39f1238b2f657647ad63ce7128675b13.gif);
+    background-repeat: no-repeat;
+    background-color: rgb(4,74,150); 
+}
+h1 {
+    color: ghostwhite;
+}
+h1 {
+    font-family: Script MT Bold;
+}
+ul {
+    color: red;
+}
+h2 {
+    color: teal;
+    font-family: AR BONNIE;
+}
+.texto, .fonts, .background {
+    color: yellow;
+}
+.texto {
+    font-family: Britannic;
+}
+.fonts {
+    font-family: 'Courier New', Courier, monospace;
+}
+.background {
+    font-family: Leelawadee UI;
+}
